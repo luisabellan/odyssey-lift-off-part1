@@ -9,8 +9,8 @@ Castronauts fullstack app holds two main folders `server` and `client`
 
 ### server
 
-- install packages `cd server && npm install`
-- start server `npm start`
+- install packages `cd server && yarn install`
+- start server `yarn start`
 
 The graphql server pulls data from a rest API.
 
@@ -18,5 +18,5 @@ The graphql server pulls data from a rest API.
 
 from another terminal window:
 
-- install packages `cd client && npm install`
-- start react app `npm start`
+- install packages `cd client && yarn install`
+- start react app `yarn start`

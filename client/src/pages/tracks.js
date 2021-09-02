@@ -20,7 +20,7 @@ export const TRACKS = gql`
   }
 `;
 /**
- * Tacks Page is Catstronauts home page.
+ * Tacks Page is Catstonauts home page.
  * We display a grid of tracks fetched with useQuery with the TRACKS query
  */
 const Tracks = () => {
